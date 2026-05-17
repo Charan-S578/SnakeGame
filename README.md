@@ -70,7 +70,7 @@ Improve graphics and animations
 
 
 ## Screenshot Section
-![Snake Game Screenshot](screenshot.png)
+![Snake Game Screenshot](https://github.com/Charan-S578/SnakeGame/blob/main/Screenshot%202026-05-17%20131236.png?raw=true)
 
 Author
 Created by Charan 🚀
